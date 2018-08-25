@@ -18,13 +18,14 @@ function whileLoop(countdown) {
   return (`done`)
 }
 var i = 0;
-
-function doWhileLoop(array) {
+function incrementVariable() {
+  i = i + 1;
+}
+ function doWhileLoop(array) {
  do {
   incrementVariable() {
-  i = i - 1;
-}while (array.length>0)
+}while (array.length>0 &&)
 
-
+so do i write 
 
   
